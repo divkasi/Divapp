@@ -17,4 +17,3 @@ spec:
        image: divkasi/sampleapp-01:divapp
        ports:
        - containerPort: 8080
-  name: divapp-deployment
